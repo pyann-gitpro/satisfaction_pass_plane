@@ -125,6 +125,6 @@ projet-satisfaction-passagers/
 ---
 
 ## Auteurs
-- José
-- Jules
-- Yann
+- José el patron
+- Jules el puma
+- Yann el aguila
